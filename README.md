@@ -25,3 +25,7 @@ Denne export er kun tilgængelig fra server
 -- coords: Koordinaterne hvor opkaldet er
 exports['visualz_opkaldsliste']:AddCall(nil, message, job, coords)
 ```
+
+# Dallefar
+
+Dette er mit forsøg på at oversætte opkaldslisten til Vrp Framework'et. Jeg kan ikke love, at scriptet er fejlfrit, da det er et stykke tid siden, jeg lavede det.
